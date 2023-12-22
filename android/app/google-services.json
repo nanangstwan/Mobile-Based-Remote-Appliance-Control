@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518785872094",
+    "firebase_url": "https://smarthome-esp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smarthome-esp",
+    "storage_bucket": "smarthome-esp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518785872094:android:997f55334987d75495524f",
+        "android_client_info": {
+          "package_name": "com.example.remote_lamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518785872094-9vhrs996gboi74tjl9nuba3clqloggeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remote_lamp",
+            "certificate_hash": "c4dfbcda000a048f0c5dae1e29cd5d030599a8e9"
+          }
+        },
+        {
+          "client_id": "518785872094-5c4cto8c2v0g70npt9883bm431ffpmo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDGfnLd6colMGGYgKWdpI8ISRDWuudzdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518785872094-5c4cto8c2v0g70npt9883bm431ffpmo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
