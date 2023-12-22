@@ -1,4 +1,8 @@
-# remote_lamp
+# mobile-based remote appliance control
+
+
+
+![alt text](https://github.com/nanangstwan/Mobile-Based-Remote-Appliance-Control/blob/master/image/UI_REMOTE.jpg?raw=true)
 
 A new Flutter project.
 
